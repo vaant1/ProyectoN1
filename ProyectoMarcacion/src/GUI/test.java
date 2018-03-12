@@ -11,4 +11,6 @@ package GUI;
  */
 public class test {
     
+    String IM;
+     
 }
